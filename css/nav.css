@@ -1,0 +1,28 @@
+.navbar
+{
+    background: transparent !important;
+   
+}
+.navbar-nav
+{
+    padding-right: 60px;
+    padding-left: 10px;
+}
+.navbar-nav li{
+    
+    font-size: 16px;
+    font-family: myfont2;
+
+}
+.nav-link{
+    color: white !important;
+}
+.nav-item a:hover
+{
+    color: #2E81D8 !important;
+}
+nav ul
+{
+    transition: 5s;
+}
+
